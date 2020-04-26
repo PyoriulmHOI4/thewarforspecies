@@ -1,0 +1,290 @@
+ideologies = {
+	
+	fatalism = {
+	
+		types = {
+			
+			meteorism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 0 0 255 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 40s!
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0
+			join_faction_tension = 0.0
+			lend_lease_tension = 0.0
+			send_volunteers_tension = 0.0
+			guarantee_tension = 0
+			annex_cost_factor = 0
+			civilian_intel_to_others = 0
+			army_intel_to_others = 0
+			navy_intel_to_others = 0
+			airforce_intel_to_others = 0
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_fascism= yes # uses the democratic AI behaviour
+	}
+
+	abrahamic_revisionism = {
+	
+		types = {
+			
+			islamic_revisionism= {
+			}
+
+			christianity_revisionism= {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 255 0 0 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 40s!
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0
+			join_faction_tension = 0.0
+			lend_lease_tension = 0.0
+			send_volunteers_tension = 0.0
+			guarantee_tension = 0
+			annex_cost_factor = 0
+			civilian_intel_to_others = 0
+			army_intel_to_others = 0
+			navy_intel_to_others = 0
+			airforce_intel_to_others = 0
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_fascism= yes # uses the democratic AI behaviour
+	}
+
+	absolutism = {
+	
+		types = {
+			
+			absolutism_group= {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = {0 255 0 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 40s!
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0
+			join_faction_tension = 0.0
+			lend_lease_tension = 0.0
+			send_volunteers_tension = 0.0
+			guarantee_tension = 0
+			annex_cost_factor = 0
+			civilian_intel_to_others = 0
+			army_intel_to_others = 0
+			navy_intel_to_others = 0
+			airforce_intel_to_others = 0
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_fascism= yes # uses the democratic AI behaviour
+	}
+	philosophical_rejuvenationist = {
+	
+		types = {
+			
+			philosophical_rejuvenationist_group = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = {0 255 0 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 40s!
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0
+			join_faction_tension = 0.0
+			lend_lease_tension = 0.0
+			send_volunteers_tension = 0.0
+			guarantee_tension = 0
+			annex_cost_factor = 0
+			civilian_intel_to_others = 0
+			army_intel_to_others = 0
+			navy_intel_to_others = 0
+			airforce_intel_to_others = 0
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_fascism= yes # uses the democratic AI behaviour
+	}
+	peasant_collectivism = {
+	
+		types = {
+			
+			peasant_collectivism_group = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = {0 255 0 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 40s!
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0
+			join_faction_tension = 0.0
+			lend_lease_tension = 0.0
+			send_volunteers_tension = 0.0
+			guarantee_tension = 0
+			annex_cost_factor = 0
+			civilian_intel_to_others = 0
+			army_intel_to_others = 0
+			navy_intel_to_others = 0
+			airforce_intel_to_others = 0
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_fascism= yes # uses the democratic AI behaviour
+	}
+	tribalism_collectivism = {
+	
+		types = {
+			
+			Tribalism_group = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = {0 255 0 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 40s!
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0
+			join_faction_tension = 0.0
+			lend_lease_tension = 0.0
+			send_volunteers_tension = 0.0
+			guarantee_tension = 0
+			annex_cost_factor = 0
+			civilian_intel_to_others = 0
+			army_intel_to_others = 0
+			navy_intel_to_others = 0
+			airforce_intel_to_others = 0
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_fascism= yes # uses the democratic AI behaviour
+	}
+}
