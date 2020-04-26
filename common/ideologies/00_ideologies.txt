@@ -12,7 +12,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_1"
 		}
 		
-		color = { 0 0 255 }
+		color = { 49 49 49 }
 		
 		rules = {
 			can_create_collaboration_government = no
@@ -63,7 +63,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_1"
 		}
 		
-		color = { 255 0 0 }
+		color = { 20 96 157 }
 		
 		rules = {
 			can_create_collaboration_government = no
@@ -111,7 +111,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_1"
 		}
 		
-		color = {0 255 0 }
+		color = { 98 98 98 }
 		
 		rules = {
 			can_create_collaboration_government = no
@@ -158,7 +158,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_1"
 		}
 		
-		color = {0 255 0 }
+		color = { 39 77 145 }
 		
 		rules = {
 			can_create_collaboration_government = no
@@ -205,7 +205,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_1"
 		}
 		
-		color = {0 255 0 }
+		color = { 126 82 0 }
 		
 		rules = {
 			can_create_collaboration_government = no
@@ -240,7 +240,7 @@ ideologies = {
 		}
 		ai_fascism= yes # uses the democratic AI behaviour
 	}
-	tribalism_collectivism = {
+	tribalism = {
 	
 		types = {
 			
@@ -252,7 +252,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_1"
 		}
 		
-		color = {0 255 0 }
+		color =  {173 65 65 }
 		
 		rules = {
 			can_create_collaboration_government = no
